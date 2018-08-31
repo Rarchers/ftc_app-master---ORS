@@ -1,4 +1,4 @@
-#ftc_app-master  -  ORS
+
 OpenCV recognizingtracking by Rarcher & Summer-lights 简称 ORS
 是一个专为FTC定制的程序
 可以实现对于特定图案（图案可以修改）的追踪定位
