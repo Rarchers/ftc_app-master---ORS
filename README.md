@@ -21,4 +21,5 @@ by ORS 开发者
 
 -------------------------------------------------------
 ORS 2.0 update：
-![image]（https://github.com/Rarchers/ftc_app-master---ORS/blob/master/FtcRobotController/src/main/ORS2.0%E6%96%B0%E7%89%B9%E6%80%A7.png）
+新的核心：核心3
+识别：核心1查找第一次位置，核心3进行追踪更新
